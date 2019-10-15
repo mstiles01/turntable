@@ -1,5 +1,6 @@
 namespace ClassyElectronics {
-    public interface Speakanator3001{
+    public interface AllinOne
+    {
         
     }
 }
